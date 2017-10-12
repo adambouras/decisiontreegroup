@@ -1,0 +1,11 @@
+{
+  "base_url": "/user/bourasm/",
+  "hostname": "127.0.0.1",
+  "notebook_dir": "/dsa/home/bourasm",
+  "password": false,
+  "pid": 29651,
+  "port": 37716,
+  "secure": false,
+  "token": "",
+  "url": "http://127.0.0.1:37716/user/bourasm/"
+}
